@@ -1,4 +1,4 @@
-import Main from "../src/screeens/moon/main";
+import Main from "../../src/screeens/moon/Main";
 const index = () => {
   return <Main></Main>;
 };
