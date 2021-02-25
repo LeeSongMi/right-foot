@@ -1,5 +1,5 @@
 import React from "react";
-import Play from "../src/screens/pine/Play";
+import Play from "../../src/screens/pine/Play";
 
 const index = () => {
   return <Play />;
