@@ -1,4 +1,4 @@
-import Game from "../../../src/screeens/moon/Game";
+import Game from "../../../src/screens/moon/Game";
 const index = () => {
   return <Game></Game>;
 };
