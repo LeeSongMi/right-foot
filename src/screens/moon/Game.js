@@ -27,8 +27,8 @@ const Man = styled.div`
   }
 `;
 const Arm = styled.div`
-  height: 30vh;
-  top: 10vh;
+  height: 25vh;
+  top: 15vh;
   right: -17vh;
   position: absolute;
   z-index: 10;
