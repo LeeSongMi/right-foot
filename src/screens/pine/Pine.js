@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-const Main = () => {
+const Pine = () => {
   return (
     <Body className="Body d-flex ">
       <p className="header w-100">왼손으로 그리고, 발로 코딩</p>
@@ -21,4 +21,4 @@ const Body = styled.div`
     font-size: 30px;
   }
 `;
-export default Main;
+export default Pine;
